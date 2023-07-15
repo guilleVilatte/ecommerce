@@ -13,5 +13,6 @@ export const styles = StyleSheet.create({
     color: COLORS.black,
     fontSize: 14,
     height: 35,
+    marginTop: 15,
   },
 });
